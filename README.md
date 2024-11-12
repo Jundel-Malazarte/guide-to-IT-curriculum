@@ -5,7 +5,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/jundel-malazarte/guide-to-IT-curriculum)](https://github.com/jundel-malazarte/guide-to-IT-curriculum/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/jundel-malazarte/guide-to-IT-curriculum)](https://github.com/jundel-malazarte/guide-to-IT-curriculum/network/members)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jundel-malazarte.guide-to-IT-curriculum)
+[!Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jundel-malazarte.guide-to-IT-curriculum)
 
 </div>
 
@@ -451,7 +451,7 @@ We welcome contributions to improve and expand this IT Curriculum and Training G
 
 1. **Fork the Repository:**
 
-   - Visit the [IT Curriculum and Training Guide repository](https://github.com/carlcastanas/it-curriculum-guide).
+   - Visit the [IT Curriculum and Training Guide repository](https://github.com/Jundel-Malazarte/guide-to-IT-curriculum.git).
    - Click the "Fork" button located at the upper right corner of the page. This will clone the repository to your GitHub account.
 
 2. **Clone Your Fork:**
@@ -461,7 +461,7 @@ We welcome contributions to improve and expand this IT Curriculum and Training G
    - Clone your forked repository by running the following command:
 
      ```shell
-     git clone https://github.com/carlcastanas/it-curriculum-guide.git
+     git clone https://github.com/Jundel-Malazarte/guide-to-IT-curriculum.git
      ```
 
 3. **Create a New Branch:**
@@ -469,7 +469,7 @@ We welcome contributions to improve and expand this IT Curriculum and Training G
    - Move into the cloned repository's directory:
 
      ```shell
-     cd it-curriculum-guide
+     cd guide-to-it-curriculum
      ```
 
    - Create a new branch for your contributions. Choose a descriptive branch name that reflects the changes you'll make:
