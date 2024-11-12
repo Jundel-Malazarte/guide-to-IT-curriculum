@@ -5,7 +5,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/jundel-malazarte/guide-to-IT-curriculum)](https://github.com/jundel-malazarte/guide-to-IT-curriculum/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/jundel-malazarte/guide-to-IT-curriculum)](https://github.com/jundel-malazarte/guide-to-IT-curriculum/network/members)
-[!Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jundel-malazarte.guide-to-IT-curriculum)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jundel-malazarte.guide-to-IT-curriculum)
 
 </div>
 
